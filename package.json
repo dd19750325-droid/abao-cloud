@@ -1,0 +1,12 @@
+{
+  "name": "abao-cloud",
+  "version": "1.0.0",
+  "description": "阿宝云端服务",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
